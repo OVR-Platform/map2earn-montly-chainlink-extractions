@@ -1,5 +1,7 @@
 
-# January 2024 Winners
+# January 2024 Winners (CANCELLED)
+
+## This draw has been canceled due to a technical problem during the drawing of winners.
 
 |                                       Winners                                        | Extraction | UUID                                 | Extracted Number |
 | :----------------------------------------------------------------------------------: | :--------- | :----------------------------------- | :--------------- |
